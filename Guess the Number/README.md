@@ -1,8 +1,8 @@
 # Guess The Number :
-It's a Guess the number game where obviously u have to guess a number, it's made with the if/else statement concept and no loops are used in it and it'll be annoying to run/play the same thing again and again for which loops are made and we'll have a look with a while loop in next project.
+It's a Guess the number game where obviously u have to guess a number, it's made with the if/else statement concept and no loops are used in it.
 
 ### Note :
-This game is build without loops, so might have to run the terminal many time to acutally guess the number
+This game is build without loops, so might have to run the terminal many time to guess the acutal number. And if u already knew loops skip this project and move to the next one which is same as this but with **Loops**.
 
 ### Language which is used :
 This project is built in Python and you can download it from [here](https://www.python.org/downloads/).
