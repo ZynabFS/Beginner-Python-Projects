@@ -4,7 +4,7 @@ guessNum = 0
 answer = False
 
 while not answer:
-    guessNum = input("Enter a Guess Number: ") # writig the guessNum's input inside the loop to make the loop work.
+    guessNum = input("Enter a Guess Number: ") # writing the guessNum's input inside the loop to make the loop work.
     if int(guessNum) < 99:
         print("Too Low!") # the guess was wrong.
 
