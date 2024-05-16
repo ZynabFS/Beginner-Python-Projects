@@ -1,5 +1,5 @@
 # Guess The Word (With Loop) :
-It's a Guess the Word game where obviously you have to guess the word, to make this game run over and over again till the user actually guessed the word we are using while loop. This project is an example and you can have an idea by this project and then, implement this in your own code.
+It's a Guess the Word game where obviously you have to guess the word, this game will be running till the user is not out of gusses and also didnt guessed the number. And when any of these condition with be fullfilled, the loop will stop. The loop we are using here is a while loop and this is what a while loop do. This project is an example and you can have an idea by this project and then, implement this in your own code.
 
 ## Concepts you need for this project :
 * If/Else Statement
