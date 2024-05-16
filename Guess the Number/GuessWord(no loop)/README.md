@@ -7,7 +7,8 @@ This project is about guessing the word game and its without loop. If you dont h
 ### From where you can learn loops? :
 If you are comfortable in watching videos, then watch this:
 * [Mike Dane](https://youtu.be/Ghz4YwOXtTA?si=zTFH3ZISEY394Yzd)
-If you are comfortable in reading then
+
+If you are comfortable in reading then:
 * [Real Python]()  
 
 ### Language which is used :
