@@ -1,7 +1,8 @@
 # OOP's Project :
+In this project, I've made a simple fullname, email and password generator kinda thing with the help of OOPs.  
 I've made this projects while learning OOP in Python and u can also try it, its very beginner friendly project which u can make with basic info of OOP.
 
-## Concepts you need for this video :
+## Concepts you need for this project :
 Following are main concepts that you need to build this project:
 * Classes
 * Instances
