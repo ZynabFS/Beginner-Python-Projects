@@ -6,12 +6,14 @@ This project is about guessing the word game and its without loop. If you dont h
 
 ### From where you can learn loops? :
 If you are comfortable in watching videos, then watch this:
-
+* [Mike Dane](https://youtu.be/Ghz4YwOXtTA?si=zTFH3ZISEY394Yzd)
 If you are comfortable in reading then
-
+* [Real Python]()  
 
 ### Language which is used :
 This project is built in Python and you can download it from [here](https://www.python.org/downloads/).
 
 ### How to run it?
 Copy the given code and paste it in your code editor, for instance: [VS Code](https://code.visualstudio.com/), [Sublime](https://www.sublimetext.com/) and [PyCharm](https://www.jetbrains.com/pycharm/) etc, and then run/play it and u can play the game in your terminal and Guess the word.
+
+
