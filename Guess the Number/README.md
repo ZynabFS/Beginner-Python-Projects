@@ -1,5 +1,5 @@
 # Guess The Number :
-It's a Guess the Number game where obviously you have to guess the number and as you can see, there are 2 files, guess the number without loop and the other one is with loop. If you are a beginner and don't have the knowledge of loops, then, go with the without loop so u can understand how it will be working without loops and then, when you'll have the knowledge of while loop, do the guess the word with loop and implement it in your code.
+It's a Guess the Number game where obviously you have to guess the number and as you can see, there are 2 folders, guess the number without loop and the other one is with loop. If you are a beginner and don't have the knowledge of loops, then go with the without loop folder, so u can understand how it will be working without loops and then, when you'll have the knowledge of *while* loop, do the guess the word with loop and implement it in your code.
 
 ### Language which is used :
 This project is built in Python and you can download it from [here](https://www.python.org/downloads/).
