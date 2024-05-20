@@ -3,7 +3,6 @@ import random
 print("Welcome to the Rock, paper and scissor game! ")
 
 commands = ["rock", "paper", "scissor"]
-out_of_rounds = False
 
 while True:
     user_choice = input("Choose an option, 'rock', 'paper', 'scissor': ").lower()
